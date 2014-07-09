@@ -1,0 +1,20 @@
+{
+    "name": "g4/constants",
+    "description": "G4 constants that are used for all day stuff and this is good way to organize them",
+    "keywords": [
+        "constants"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dejan Samardzija",
+            "email": "samardzija.dejan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"G4\\Constants\\": "src/"}
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
