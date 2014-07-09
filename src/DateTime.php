@@ -1,6 +1,6 @@
 <?php
 
-namespace G4\Constats;
+namespace G4\Constants;
 
 class DateTime
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace G4\Constats;
+namespace G4\Constants;
 
-use G4\Constats\Time;
+use G4\Constants\Time;
 
 class CacheLifetime
 {
