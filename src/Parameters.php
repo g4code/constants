@@ -33,5 +33,7 @@ class Parameters
     const CC_EXPIRE_MONTH = 'card_expire_month';
     const CC_EXPIRE_YEAR  = 'card_expire_year';
 
-    const AUTH_KEY_NAME   = 'X-ND-Authentication';
+    const X_ND_APP_KEY    = 'X-ND-AppKey';
+    const X_ND_APP_TOKEN  = 'X-ND-AppToken';
+    const X_ND_AUTH       = 'X-ND-Authentication';
 }
