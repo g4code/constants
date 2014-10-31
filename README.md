@@ -7,14 +7,8 @@ Const
 
 > Using Composer and Packagist
 
-in composer.json file add:
-
-```json
-{
-    "require": {
-        "g4/const": "*"
-    }
-}
+```sh
+composer require g4/const
 ```
 
 ## Development
