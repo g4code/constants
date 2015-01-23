@@ -4,6 +4,8 @@ namespace G4\Constants;
 
 class Http
 {
+    const HOST = 'host';
+
     // HTTP REQUEST METHODS
     const METHOD_GET    = 'GET';
     const METHOD_POST   = 'POST';
