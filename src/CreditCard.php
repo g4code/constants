@@ -27,15 +27,15 @@ class CreditCard
     public static function getAll()
     {
         return [
-            TYPE_VISA       => NAME_VISA,
-            TYPE_MC         => NAME_MC,
-            TYPE_MAESTRO    => NAME_MAESTRO,
-            TYPE_AMEX       => NAME_AMEX,
-            TYPE_JCB        => NAME_JCB,
-            TYPE_DINERS     => NAME_DINERS,
-            TYPE_DISCOVER   => NAME_DISCOVER,
-            TYPE_LASER      => NAME_LASER,
-            TYPE_SOLO       => NAME_SOLO,
+            self::TYPE_VISA       => self::NAME_VISA,
+            self::TYPE_MC         => self::NAME_MC,
+            self::TYPE_MAESTRO    => self::NAME_MAESTRO,
+            self::TYPE_AMEX       => self::NAME_AMEX,
+            self::TYPE_JCB        => self::NAME_JCB,
+            self::TYPE_DINERS     => self::NAME_DINERS,
+            self::TYPE_DISCOVER   => self::NAME_DISCOVER,
+            self::TYPE_LASER      => self::NAME_LASER,
+            self::TYPE_SOLO       => self::NAME_SOLO,
         ];
     }
 }
