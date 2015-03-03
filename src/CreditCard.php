@@ -14,15 +14,15 @@ class CreditCard
     const TYPE_LASER    = 'laser';
     const TYPE_SOLO     = 'solo';
 
-    const NAME_VISA     = 'visa';
-    const NAME_MC       = 'mastercard';
-    const NAME_MAESTRO  = 'maestro';
-    const NAME_AMEX     = 'amex';
-    const NAME_JCB      = 'jcb';
-    const NAME_DINERS   = 'diners';
-    const NAME_DISCOVER = 'discover';
-    const NAME_LASER    = 'laser';
-    const NAME_SOLO     = 'solo';
+    const NAME_VISA     = 'Visa';
+    const NAME_MC       = 'MasterCard';
+    const NAME_MAESTRO  = 'Maestro';
+    const NAME_AMEX     = 'Amex';
+    const NAME_JCB      = 'Jcb';
+    const NAME_DINERS   = 'Diners';
+    const NAME_DISCOVER = 'Discover';
+    const NAME_LASER    = 'Laser';
+    const NAME_SOLO     = 'Solo';
 
     public static function getAll()
     {
