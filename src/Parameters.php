@@ -48,6 +48,7 @@ class Parameters
     const CC_NUMBER        = 'card_number';
     const CC_NAME          = 'card_name';
     const CC_CVV2          = 'card_cvv2';
+    const CC_TYPE          = 'card_type';
     const CC_EXPIRE_MONTH  = 'card_expire_month';
     const CC_EXPIRE_YEAR   = 'card_expire_year';
 
