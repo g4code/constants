@@ -4,6 +4,8 @@ namespace G4\Constants;
 
 class Time
 {
+    const TIMESTAMP = 'timestamp';
+
     const SECOND_01  =        1;
     const SECOND_15  =       15;
     const SECOND_30  =       30;
