@@ -13,7 +13,4 @@ class Affiliate
     const MOBILE = 'mobile';
     const HASH   = 'hash';
     const FK_ID  = 'fk_id';
-
-    const LANDING_PAGE = 'landing_page';
-    const USER_AGENT   = 'user_agent';
 }
