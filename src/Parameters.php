@@ -68,4 +68,5 @@ class Parameters
     const SITE_DOMAIN       = 'site_domain';
     const SITE_URI          = 'site_uri';
     const FE_HOSTNAME       = 'fe_hostname';
+    const THEME             = 'theme';
 }
