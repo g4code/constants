@@ -44,6 +44,7 @@ class Parameters
     const SESSION           = 'session';
     const AGREE_WITH_TERMS  = 'agree_with_terms';
     const TERM              = 'term';
+    const NATURE            = 'nature';
 
     const CC_NUMBER         = 'card_number';
     const CC_NAME           = 'card_name';
