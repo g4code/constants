@@ -70,4 +70,6 @@ class Parameters
     const SITE_URI          = 'site_uri';
     const FE_HOSTNAME       = 'fe_hostname';
     const THEME             = 'theme';
+
+    const VERSION_NUMBER    = 'version_number';
 }
