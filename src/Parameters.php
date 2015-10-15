@@ -72,6 +72,7 @@ class Parameters
     const THEME             = 'theme';
 
     const WLD               = 'wld';
+    const WL                = 'wl';
 
     const VERSION_NUMBER    = 'version_number';
 }
