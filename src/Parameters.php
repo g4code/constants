@@ -10,6 +10,7 @@ class Parameters
     const LIMIT             = 'limit';
     const COLLECTION        = 'collection';
     const RESOURCE          = 'resource';
+    const LANG              = 'lang';
 
     const USERNAME          = 'username';
     const USER_ID           = 'user_id';
@@ -73,6 +74,7 @@ class Parameters
 
     const WLD               = 'wld';
     const WL                = 'wl';
+    const PROMO             = 'promo';
 
     const VERSION_NUMBER    = 'version_number';
 }
