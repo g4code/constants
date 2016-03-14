@@ -32,6 +32,7 @@ class Parameters
     const RECEIVER          = 'receiver';
     const CC                = 'cc';
     const BCC               = 'bcc';
+    const REPLY_TO          = 'reply_to';
     const SUBJECT           = 'subject';
     const BODY              = 'body';
     const DATA              = 'data';
