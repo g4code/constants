@@ -77,5 +77,8 @@ class Parameters
     const WL                = 'wl';
     const PROMO             = 'promo';
 
+    const OUTPUT_VERBOSE    = 'output_verbose';
+    const FULL              = 'FULL';
+
     const VERSION_NUMBER    = 'version_number';
 }
