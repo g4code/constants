@@ -78,7 +78,7 @@ class Parameters
     const USER_DATA         = 'user_data';
     const SITE_DOMAIN       = 'site_domain';
     const DOMAIN            = 'domain';
-    const DOMAIN_name       = 'domain_name';
+    const DOMAIN_NAME       = 'domain_name';
     const SITE_URI          = 'site_uri';
     const FE_HOSTNAME       = 'fe_hostname';
     const THEME             = 'theme';
