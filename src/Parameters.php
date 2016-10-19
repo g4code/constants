@@ -17,6 +17,14 @@ class Parameters
     const EMAIL             = 'email';
     const PASSWORD          = 'password';
 
+    const IMAGE_SIZE        = 'image_size';
+    const PHOTO_ID          = 'photo_id';
+    const SRC               = 'src';
+    const SRC_WITH          = 'src_width';
+    const SRC_HEIGHT        = 'src_height';
+    const PHOTO_PRIVATE     = 'private';
+    const PRIVATE_DISPLAY   = 'private_display';
+
     const GENDER            = 'gender';
     const BIRTHDAY          = 'birthday';
     const BIRTHDAY_DAY      = 'birthday_day';
@@ -69,6 +77,8 @@ class Parameters
 
     const USER_DATA         = 'user_data';
     const SITE_DOMAIN       = 'site_domain';
+    const DOMAIN            = 'domain';
+    const DOMAIN_name       = 'domain_name';
     const SITE_URI          = 'site_uri';
     const FE_HOSTNAME       = 'fe_hostname';
     const THEME             = 'theme';
