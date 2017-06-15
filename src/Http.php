@@ -54,6 +54,7 @@ class Http
     const CODE_415 = 415;
     const CODE_416 = 416;
     const CODE_417 = 417;
+    const CODE_422 = 422;
 
     // Server Error 5xx
     const CODE_500 = 500;
@@ -106,6 +107,7 @@ class Http
     const MESSAGE_415 = 'Unsupported Media Type';
     const MESSAGE_416 = 'Requested Range Not Satisfiable';
     const MESSAGE_417 = 'Expectation Failed';
+    const MESSAGE_422 = 'Unprocessable Entity';
 
     // Server Error 5xx
     const MESSAGE_500 = 'Internal Server Error';
@@ -154,6 +156,7 @@ class Http
         self::CODE_415 => self::MESSAGE_415,
         self::CODE_416 => self::MESSAGE_416,
         self::CODE_417 => self::MESSAGE_417,
+        self::CODE_422 => self::MESSAGE_422,
         self::CODE_500 => self::MESSAGE_500,
         self::CODE_501 => self::MESSAGE_501,
         self::CODE_502 => self::MESSAGE_502,
