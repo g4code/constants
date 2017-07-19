@@ -44,6 +44,8 @@ class Parameters
     const SUBJECT           = 'subject';
     const BODY              = 'body';
     const DATA              = 'data';
+    const RECIPIENTS        = 'recipients';
+    const TEXT              = 'text';
 
     const IP_ADDRESS        = 'ip';
     const NAME              = 'name';
