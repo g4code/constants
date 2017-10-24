@@ -142,6 +142,7 @@ class Parameters
     const NOREPLY_EMAIL             = 'noreply_email';
 
     const USER                      = 'user';
+    const URL_PART                  = 'url_part';
     const USER_MONEY_DIRECTION      = 'user_money_direction';
     const USER_GENDER               = 'user_gender';
     const USERNAME_LIKE             = 'username_like';
@@ -164,7 +165,7 @@ class Parameters
     const ORDER_DIR                 = 'order_dir';
     const ORDER_BY                  = 'order_by';
     const OWNER_NAME                = 'owner_name';
-    
+
     const VALID                     = 'valid';
     const WEB                       = 'web';
 }
