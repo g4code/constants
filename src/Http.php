@@ -11,6 +11,7 @@ class Http
     const METHOD_POST   = 'POST';
     const METHOD_PUT    = 'PUT';
     const METHOD_DELETE = 'DELETE';
+    const METHOD_PATCH  = 'PATCH';
 
     // HTTP RESPONSE CODES
     // Informational 1xx
