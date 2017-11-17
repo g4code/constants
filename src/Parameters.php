@@ -69,6 +69,8 @@ class Parameters
     const X_ND_APP_TOKEN            = 'X-ND-AppToken';
     const X_ND_AUTH                 = 'X-ND-Authentication';
     const X_ND_PARTNER_KEY          = 'X-ND-PartnerKey';
+    const X_ND_APP_NAME             = 'X-ND-App-Name';
+    const X_ND_CLIENT_IP            = 'X-ND-Client-Ip';
     const AUTH                      = 'auth';
 
     const LANDING_PAGE              = 'landing_page';
