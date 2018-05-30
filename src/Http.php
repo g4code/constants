@@ -34,7 +34,9 @@ class Http
     const CODE_303 = 303;
     const CODE_304 = 304;
     const CODE_305 = 305;
+    const CODE_306 = 306;
     const CODE_307 = 307;
+    const CODE_308 = 308;
 
     // Client Error 4xx
     const CODE_400 = 400;
