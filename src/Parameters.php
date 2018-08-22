@@ -71,6 +71,7 @@ class Parameters
     const X_ND_PARTNER_KEY          = 'X-ND-PartnerKey';
     const X_ND_APP_NAME             = 'X-ND-App-Name';
     const X_ND_CLIENT_IP            = 'X-ND-Client-Ip';
+    const X_ND_UUID                 = 'X-ND-UUID';
     const AUTH                      = 'auth';
 
     const LANDING_PAGE              = 'landing_page';
