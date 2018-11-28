@@ -32,9 +32,14 @@ class Parameters
     const BIRTHDAY_YEAR             = 'birthday_year';
 
     const CITY_ID                   = 'city_id';
+    const CITY_NAME                 = 'city_name';
+
     const STATE_ID                  = 'state_id';
+    const STATE_NAME                = 'state_name';
+
     const COUNTRY_ID                = 'country_id';
     const COUNTRY_CODE              = 'country_code';
+    const COUNTRY_NAME              = 'country_name';
 
     const SENDER                    = 'sender';
     const RECEIVER                  = 'receiver';
