@@ -51,6 +51,7 @@ class Parameters
     const DATA                      = 'data';
     const RECIPIENTS                = 'recipients';
     const TEXT                      = 'text';
+    const PROVIDER                  = 'provider';
 
     const IP_ADDRESS                = 'ip';
     const NAME                      = 'name';
