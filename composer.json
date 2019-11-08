@@ -15,6 +15,6 @@
         "psr-4": {"G4\\Constants\\": "src/"}
     },
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.6"
     }
 }
