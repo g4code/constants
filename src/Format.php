@@ -10,4 +10,5 @@ class Format
     const JSON = 'json';
     const TWIG = 'twig';
     const XML  = 'xml';
+    const GIF  = 'gif';
 }
