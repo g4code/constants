@@ -78,6 +78,10 @@ class Parameters
     const X_ND_APP_NAME             = 'X-ND-App-Name';
     const X_ND_CLIENT_IP            = 'X-ND-Client-Ip';
     const X_ND_UUID                 = 'X-ND-UUID';
+    const X_ND_MOBILEPLATFORM       = 'X-ND-MobilePlatform';
+    const X_ND_MOBILEDEVICE         = 'X-ND-MobileDevice';
+    const X_ND_MOBILETOKEN          = 'X-ND-MobileToken';
+    const X_RESET_USERNAME          = 'X-Reset-Username';
     const AUTH                      = 'auth';
 
     const LANDING_PAGE              = 'landing_page';
